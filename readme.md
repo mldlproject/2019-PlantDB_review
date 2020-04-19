@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/mldlproject/2019-PlantDB_review/blob/master/Plant_metabolite_DB-Graphical%20Abstract.jpg)
 
-**Abstract**: Traditional herbal medicine has been an inseparable part of the traditional medical science in many countries throughout 
+**Motivation**: Traditional herbal medicine has been an inseparable part of the traditional medical science in many countries throughout 
 history. Nowadays, the popularity of using herbal medicines in daily life, as well as clinical practices, has gradually expanded to 
 numerous Western countries with positive impacts and acceptance. The continuous growth of the herbal consumption market has promoted 
 standardization and modernization of herbal-derived products with present pharmacological criteria. To store and extensively share this 
