@@ -2,7 +2,7 @@
 
 #### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, K. Trinh, [H. Cao](https://engineering.uci.edu/users/hung-cao)*, and [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗
 
-![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
+![alt text](https://github.com/mldlproject/2019-PlantDB_review/blob/master/Plant_metabolite_DB-Graphical%20Abstract.jpg)
 
 **Abstract**: Traditional herbal medicine has been an inseparable part of the traditional medical science in many countries throughout 
 history. Nowadays, the popularity of using herbal medicines in daily life, as well as clinical practices, has gradually expanded to 
