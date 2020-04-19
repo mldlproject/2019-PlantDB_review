@@ -14,10 +14,8 @@ origins. In the scope of this study, we critically review 30 herbal metabolite d
 provide a comparative analysis of 18 accessible noncommercial ones. We hope to provide you with fundamental information and multidimensional 
 perspectives from herbal medicines to modern drug discovery.
 
-**Results**: In the scope of this study, we critically review 30 herbal metabolite databases, discuss different related perspectives, and 
-provide a comparative analysis of 18 accessible noncommercial ones. We hope to provide you with fundamental information and multidimensional 
-perspectives from herbal medicines to modern drug discovery.
+**Results**: In the scope of this study, we critically review 30 herbal metabolite databases, discuss different related perspectives, and provide a comparative analysis of 18 accessible noncommercial ones. We hope to provide you with fundamental information and multidimensional perspectives from herbal medicines to modern drug discovery.
 
-**Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2020-DILI-CNN-MFE)
+**Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2019-PlantDB_review)
 
-**Disclimer*: Authors provide downloaded databases to users as data sources for future studies in natural drug discovery and related fields. The data were downloaded from open-sources for statistical analysis in the published paper entitled "Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery". When using these databases, please cite the original works of the database developers
+**Disclimer**: Authors provide downloaded databases to users as data sources for future studies in natural drug discovery and related fields. The data were downloaded from open-sources for statistical analysis in the published paper entitled "[Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)". When using these databases, please cite the original works of the database developers
