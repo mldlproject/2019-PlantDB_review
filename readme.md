@@ -20,3 +20,4 @@ perspectives from herbal medicines to modern drug discovery.
 
 **Availability and implementation** Source code and data are available on [GitHub](https://github.com/mldlproject/2020-DILI-CNN-MFE)
 
+**Disclimer*: Authors provide downloaded databases to users as data sources for future studies in natural drug discovery and related fields. The data were downloaded from open-sources for statistical analysis in the published paper entitled "Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery". When using these databases, please cite the original works of the database developers
