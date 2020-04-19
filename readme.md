@@ -1,6 +1,6 @@
 # Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery
 
-#### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, P. H. Le, [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗, and [B. P. Nguyen](https://homepages.ecs.vuw.ac.nz/~nguyenb5/about.html)∗
+#### T-H Nguyen-Vo, L. Nguyen, N. Do, T-N. Nguyen, K. Trinh, [H. Cao](https://engineering.uci.edu/users/hung-cao)*, and [L. Le](http://cbc.bio.hcmiu.edu.vn/)∗
 
 ![alt text](https://github.com/mldlproject/2020-DILI-CNN-MFE/blob/master/FP2VEC_DILI-Graphical_abstract.jpg)
 
