@@ -22,9 +22,10 @@ In the scope of this study, we critically review 30 herbal metabolite databases,
 Source code and data are available on [GitHub](https://github.com/mldlproject/2019-PlantDB_review)
 
 ## Citation
-Nguyen-Vo, T. H., Trinh, Q. H., Nguyen, L., Do, T. T., Chua, M. C. H., & Nguyen, B. P. (2021). Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder Representations from Transformers. Journal of Chemical Information and Modeling. [DOI: 10.1021/acs.jcim.1c00584](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00584?casa_token=NjdbjiwwyhsAAAAA:RlZBlZCFeA7L8n8AZebCTiEFOLu-lFDpYraPyDl_LDZX7HqD7_pby3OK3TnMHAmuC84b_BwhztQfm3CO)
+Thanh-Hoang Nguyen-Vo, Loc Nguyen, Nguyet Do, Thien-Ngan Nguyen, Khang Trinh, Hung Cao, and Ly Le. Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery. *Journal of Chemical Information and Modeling* 2020 60 (3), 1101-1110. DOI: [10.1021/acs.jcim.9b00826](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
 
-**Disclimer**: Authors provide downloaded databases to users as data sources for future studies in natural drug discovery and related fields. The data were downloaded from open-sources for statistical analysis in the published paper entitled "[Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)". When using these databases, please cite the original works of the database developers
+## Disclimer
+Authors provide downloaded databases to users as data sources for future studies in natural drug discovery and related fields. The data were downloaded from open-sources for statistical analysis in the published paper entitled "[Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)". When using these databases, please cite the original works of the database developers besides ours.
