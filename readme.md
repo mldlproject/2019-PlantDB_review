@@ -22,7 +22,7 @@ In the scope of this study, we critically review 30 herbal metabolite databases,
 Source code and data are available on [GitHub](https://github.com/mldlproject/2019-PlantDB_review)
 
 ## Citation
-Thanh-Hoang Nguyen-Vo, Loc Nguyen, Nguyet Do, Thien-Ngan Nguyen, Khang Trinh, Hung Cao, and Ly Le. Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery. *Journal of Chemical Information and Modeling* 2020 60 (3), 1101-1110. DOI: [10.1021/acs.jcim.9b00826](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)
+Thanh-Hoang Nguyen-Vo, Loc Nguyen, Nguyet Do, Thien-Ngan Nguyen, Khang Trinh, Hung Cao, and Ly Le. Plant Metabolite Databases: From Herbal Medicines to Modern Drug Discovery. *Journal of Chemical Information and Modeling* (2020), 60 (3), 1101-1110. DOI: [10.1021/acs.jcim.9b00826](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00826)
 
 ## Contact 
 [Go to contact information](https://homepages.ecs.vuw.ac.nz/~nguyenb5/contact.html)
